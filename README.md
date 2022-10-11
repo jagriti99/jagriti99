@@ -27,7 +27,7 @@ I am Jagriti Sharma.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagriti99&show_icons=true&theme=nightowl" alt="jagriti99" /></p>
 
 
 
