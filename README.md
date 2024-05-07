@@ -12,8 +12,8 @@
 
 ### :woman_technologist: About Me :
 I am Jagriti Sharma.
-- :seedling: A student of Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Business College Helsinki.
-- :seedling: Soon graduating in Business Information Technology from Haaga-Helia UAS 
+- :seedling: A certification in Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Business College Helsinki.
+- :seedling: A graduate in Business Information Technology from Haaga-Helia UAS 
 - :zap: In my free time, I read books.
 
 ---
